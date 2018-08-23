@@ -1,0 +1,7 @@
+body {
+    display: flex;
+}
+
+#guilds img {
+    width: 50px;
+}

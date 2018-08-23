@@ -1,0 +1,13 @@
+{
+    "name": "spider",
+    "version": "1.0.0",
+    "description": "niggas creepin",
+    "main": "main.js",
+    "scripts": {
+        "start": "electron ."
+    },
+    "dependencies": {
+        "discord.js": "^11.4.2",
+        "electron": "^2.0.7"
+    }
+}
